@@ -1,7 +1,7 @@
-# SysGerm | CosmodiumCS
+# sysgerm
 ## $whoami
-- Intern at CosmodiumCS
-- I love to hack, party and fool around
+``Leading Researcher @ CosmodiumCSZ `
+
 ---
 <!-- GitHub StatCard-->
 ![Cosmo's GitHub stats](https://github-readme-stats.vercel.app/api?username=SysGerm&show_icons=true&theme=dark)
