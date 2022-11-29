@@ -9,18 +9,18 @@
   ## Skillset
   ``` 
   Coding:
-  - PHP
-  - Python
-  - JS
-  - HTML & CSS
-  - Java & JavaFX
+  PHP
+  Python
+  JS
+  HTML & CSS
+  Java & JavaFX
 
   Pentesting:
-  - 4 years of experience
-  - Teaching CyberSecurity
-  - TryHackMe top 3%
-  - Bugbounties
-  - Professional Security Research
+  4 years of experience
+  Teaching CyberSecurity
+  TryHackMe top 3%
+  Bugbounties
+  Professional Security Research
   ```
 
   ---
