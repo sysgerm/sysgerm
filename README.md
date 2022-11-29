@@ -1,6 +1,6 @@
 # SysGerm | CCS
 ## $whoami
-``Leading Researcher @ CosmodiumCSZ `
+`Leading Researcher @ CosmodiumCSZ `
 
 ---
 <!-- GitHub StatCard-->
