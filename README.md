@@ -1,10 +1,30 @@
-# SysGerm | CCS
-## $whoami
-`Leading Researcher @ CosmodiumCS`
+<div align=center>
+  
+  # Hey there! 👋
+  
+  ## $whoami
+  
+  `Leading Researcher @ CosmodiumCS`
 
----
-<!-- GitHub StatCard-->
-![Cosmo's GitHub stats](https://github-readme-stats.vercel.app/api?username=SysGerm&show_icons=true&theme=dark)
+  ## Skillset
+  ``` 
+  Coding:
+  - PHP
+  - Python
+  - JS
+  - HTML & CSS
+  - Java & JavaFX
 
-<!-- Top Languages Card -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SysGerm&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  Pentesting:
+  - 4 years of experience
+  - Teaching CyberSecurity
+  - TryHackMe top 3%
+  - Bugbounties
+  - Professional Security Research
+  ```
+
+  ---
+  <!-- GitHub StatCard-->
+
+  <img src="https://github-readme-stats.vercel.app/api?username=SysGerm&show_icons=true&theme=merko"/>
+</div>  
