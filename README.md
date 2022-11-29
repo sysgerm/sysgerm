@@ -1,4 +1,4 @@
-# sysgerm
+# SysGerm | CCS
 ## $whoami
 ``Leading Researcher @ CosmodiumCSZ `
 
