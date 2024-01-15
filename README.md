@@ -15,7 +15,8 @@
   HTML & CSS
   Java & JavaFX
   C#
-  
+
+
   Pentesting:
   4 years of experience
   Teaching CyberSecurity
