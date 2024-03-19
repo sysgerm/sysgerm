@@ -1,6 +1,7 @@
+
+<div class="center">
 # 💫 About Me:
 18 year old security researcher working for CosmodiumCS.
-
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/uqWqEbUm6M) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sysgerm) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@CosmodiumCS) 
@@ -16,5 +17,4 @@
   ## 💰 You can help me by Donating
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/sysgerm) 
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
