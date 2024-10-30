@@ -3,7 +3,7 @@
 ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzlxa29keGtkOXN2NDA0dno3dmhkbHdjOGZ1d3J2NDU2bzFzbTdwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B4dt6rXq6nABilHTYM/giphy.gif)
 
 ## About Me
-`19 year old security researcher working for CosmodiumCS.`
+`19 year old security researcher`
 
 ## Stats
 ![](https://github-readme-stats.vercel.app/api?username=sysgerm&theme=nord&hide_border=false&include_all_commits=true&count_private=false)<br/>
